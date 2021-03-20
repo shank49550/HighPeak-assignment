@@ -12,3 +12,7 @@ On uploading the sample text, make sure you have entered the same name in the IO
 Upon running the program, you should be able to find a file named "ouptut.txt". download that file and output is displayed in that file.
 
 You can try to run a new program for different inputs by changing the name in IOfile and following the above procedures again.
+
+
+
+Video link: https://drive.google.com/file/d/1oznH97Y6RpbnMSshE4VzvdPQI-LG6e2S/view?usp=drivesdk
